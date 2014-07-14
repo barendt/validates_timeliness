@@ -5,7 +5,7 @@ require "validates_timeliness/version"
 Gem::Specification.new do |s|
   s.name        = "validates_timeliness"
   s.version     = ValidatesTimeliness::VERSION
-  s.authors     = ["Adam Meehan"]
+  s.authors     = ["Adam Meehan", "Jarl Friis"]
   s.summary     = %q{Date and time validation plugin for Rails which allows custom formats}
   s.description = %q{Adds validation methods to ActiveModel for validating dates and times. Works with multiple ORMS.}
   s.email       = %q{adam.meehan@gmail.com}
