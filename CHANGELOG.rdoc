@@ -1,3 +1,6 @@
+= 4.0.0 [2014-07-14]
+* Merged Rails 4 compatibility fixes for multiparameter and date_time_select extensions. 
+
 = 3.0.14 [2012-08-23]
 * Fix for using validates :timeliness => {} form to correctly add attributes to timeliness validated attributes.
 
